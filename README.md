@@ -1,10 +1,11 @@
-<h1 align="center">Hi 👋, I'm Crunnie</h1>
+<h1 align="center"><img src="https://cdn.discordapp.com/attachments/751304558453719176/936198821304754176/crunnie.png" alt="My Logo" width="131" height="21"> </h1>
+
 <h3 align="center">GUI Designer & Awful Web Developer</h3>
 
 - 🔭 I’m currently working on [Fortnite iOS Archive](https://github.com/Crunnie/Fortnite-iOS-Archive)
 
-- 🌱 I’m currently learning C++ & Rust
-
 - 🤝 I’m looking for help with [Fortnite iOS Archive](https://github.com/Crunnie/Fortnite-iOS-Archive)
+
+- 🌱 I’m trying to learn C++ & Rust
 
 </p>
